@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&family=Unbounded:wght@300&display=swap');
+h1{ background-color: blueviolet;
+    font-size: 100px;
+    font-family: 'Rubik Vinyl', cursive;
+
+
+}
+p{
+    background-color: rgba(22, 199, 202, 0.988);
+    font-size:  30px; 
+    color: rgb(150, 199, 35);
+}
